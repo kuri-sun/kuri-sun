@@ -48,7 +48,7 @@ More details about me
 
 #### What mainly coding about ???
 
-A ssignments and searching projects online and learn from it.
+Assignments and searching projects online and learn from it.
 
 #### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuri-sun&hide=contribs,prs&theme=tokyonight)
