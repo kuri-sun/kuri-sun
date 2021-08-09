@@ -1,6 +1,6 @@
  ### Hi, I'm kuri-sun ( Haruki )  <img width="18px" height="18px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif">
 <hr/>
- My resume is here -> [ <a href="#">Resume</a> ]📄<br/>
+ My resume is here ---> 📄<a href="#">Resume</a>📄<br/>
  I'm a Student in CICCC, Developer !! 
 <br/><br/>
 
@@ -33,7 +33,9 @@
 <img align="left"  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>&ensp;
 <img align="left"  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>&ensp;
 <img align="left"  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>&ensp;
-<img align="left"  width="26px" src="https://raw.githubusercontent.com/github/explore/aca0b3b69ca680013b925338b0cc428190aa42dc/topics/cli/cli.png"/>&ensp;
+<img align="left"  width="26px" src="https://raw.githubusercontent.com/github/explore/aca0b3b69ca680013b925338b0cc428190aa42dc/topics/cli/cli.png"/>
+<img align="left"  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>&ensp;
+<br/>
 
 #### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuri-sun&hide=contribs,prs&theme=tokyonight)
@@ -42,5 +44,5 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-### Business
+#### Business
  - email: harkuikuriwada@gmail.com
