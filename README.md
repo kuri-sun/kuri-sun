@@ -1,4 +1,5 @@
  # Hi, I'm kuri-sun ( Haruki )  <img width="22px" height="22px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif">
+ 
  🔥 My resume is here ---> 📄<a href="#">Resume</a>📄<br/>
  🔥 I'm a Student in CICCC, Developer !! 
 <br/><br/>
@@ -6,7 +7,7 @@
 ⚽️ I’m looking to collaborate with other content creators 💪💪💪<br/>
 ⚽️ 2021 Goals: Contribute more to projects and learn a lot ✊✊✊<br/>
 ⚽️ Hobby: I love to play and watch soccer !!!
-<br/><br/>
+<br/>
 <img src="https://img.shields.io/github/followers/kuri-sun?label=follwers&style=social"> <a href="https://ciccc.ca/"><img src="https://img.shields.io/badge/student-CICCC-blue"></a>
 
 ###  Connect with me: 
