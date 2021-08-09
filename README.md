@@ -2,14 +2,12 @@
 <hr/>
  My resume is here -> [ <a href="#">Resume</a> ]📄<br/>
  I'm a Student in CICCC, Developer !! 
-<hr/>
+<br/>
 ⚽️ I’m looking to collaborate with other content creators<br/>
 ⚽️ 2021 Goals: Contribute more to projects and learn a lot ✊✊✊<br/>
 ⚽️ Hobby: I love to play and watch soccer !!!
 <br/><br/>
-<img src="https://img.shields.io/github/followers/kuri-sun?label=follwers&style=social" /> 😭😭😭 
-<img src="https://img.shields.io/badge/student-CICCC-blue" /> 
-<br/><br/>
+<img src="https://img.shields.io/github/followers/kuri-sun?label=follwers&style=social"/>😭😭😭<img src="https://img.shields.io/badge/student-CICCC-blue" /> 
 
 ###  Connect with me: 
 
@@ -36,10 +34,12 @@
 <img align="left"  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>&ensp;
 <img align="left"  width="26px" src="https://raw.githubusercontent.com/github/explore/aca0b3b69ca680013b925338b0cc428190aa42dc/topics/cli/cli.png"/>&ensp;
 
-### Github Stats
+#### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuri-sun&hide=contribs,prs&theme=tokyonight)
 
-
+#### Code Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Business
  - email: harkuikuriwada@gmail.com
