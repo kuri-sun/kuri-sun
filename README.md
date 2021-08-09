@@ -2,7 +2,7 @@
 <hr/>
  My resume is here -> [ <a href="#">Resume</a> ]📄<br/>
  I'm a Student in CICCC, Developer !! 
-<br/>
+<br/><br/>
 
 ⚽️ I’m looking to collaborate with other content creators<br/>
 ⚽️ 2021 Goals: Contribute more to projects and learn a lot ✊✊✊<br/>
