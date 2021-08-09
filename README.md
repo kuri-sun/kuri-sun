@@ -3,11 +3,12 @@
  My resume is here -> [ <a href="#">Resume</a> ]📄<br/>
  I'm a Student in CICCC, Developer !! 
 <br/>
+
 ⚽️ I’m looking to collaborate with other content creators<br/>
 ⚽️ 2021 Goals: Contribute more to projects and learn a lot ✊✊✊<br/>
 ⚽️ Hobby: I love to play and watch soccer !!!
 <br/><br/>
-<img src="https://img.shields.io/github/followers/kuri-sun?label=follwers&style=social"/>😭😭😭<img src="https://img.shields.io/badge/student-CICCC-blue" /> 
+<img src="https://img.shields.io/github/followers/kuri-sun?label=follwers&style=social"> <img src="https://img.shields.io/badge/student-CICCC-blue"> 
 
 ###  Connect with me: 
 
