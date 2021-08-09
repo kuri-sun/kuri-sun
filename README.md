@@ -1,10 +1,10 @@
  ### Hi, I'm kuri-sun ( Haruki )  <img width="18px" height="18px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif">
 <hr/>
- My resume is here ---> 📄<a href="#">Resume</a>📄<br/>
- I'm a Student in CICCC, Developer !! 
+ 🔥 My resume is here ---> 📄<a href="#">Resume</a>📄<br/>
+ 🔥 I'm a Student in CICCC, Developer !! 
 <br/><br/>
 
-⚽️ I’m looking to collaborate with other content creators<br/>
+⚽️ I’m looking to collaborate with other content creators 💪💪💪<br/>
 ⚽️ 2021 Goals: Contribute more to projects and learn a lot ✊✊✊<br/>
 ⚽️ Hobby: I love to play and watch soccer !!!
 <br/><br/>
