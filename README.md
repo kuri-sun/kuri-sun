@@ -57,7 +57,9 @@ Assignments and searching projects online and learn from it.
 #### Code Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown     1 hr 18 mins    ███████████████████▒░░░░░   77.79 % 
+Java         13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+YAML         7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
 ```
 <!--END_SECTION:waka-->
 
