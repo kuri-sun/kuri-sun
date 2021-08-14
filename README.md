@@ -12,7 +12,7 @@
 
 ###  Connect with me: 
 
-⚡️ Please check out my <<a href="#"> Web site </a>> here !!!
+⚡️ Please check out my "<a href="#">Web site</a>" here !!!
 
 ⚡️ Please check out SMS account also !!!
 
