@@ -60,11 +60,11 @@ Assignments and searching projects online and learn from it.
 #### Code Stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   20 hrs 31 mins  ███████████████████░░░░░░   75.39 % 
-Markdown     1 hr 44 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-JSON         1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Python       1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-HTML         1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+JavaScript   26 hrs 7 mins   ███████████████████▒░░░░░   77.20 % 
+Markdown     1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+HTML         1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+JSON         1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Python       1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 ```
 <!--END_SECTION:waka-->
 
