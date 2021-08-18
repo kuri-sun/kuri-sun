@@ -43,10 +43,8 @@
 
 <br/><br/>
 
-<details>
-<summary>
-More details about me
-</summary>
+
+### More details about me
 
 <br/>
 
@@ -70,4 +68,3 @@ JSX          23 mins         ▒░░░░░░░░░░░░░░░░
 
 #### Business
  - email: harkuikuriwada@gmail.com
-</details>
