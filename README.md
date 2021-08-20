@@ -46,9 +46,9 @@
 <img align="left"  width="26px" src="https://raw.githubusercontent.com/github/explore/aca0b3b69ca680013b925338b0cc428190aa42dc/topics/cli/cli.png"/>
 
 <br/><br/>
+<hr />
 
-
-## More details about me
+### More details about me
 
 <br/>
 
