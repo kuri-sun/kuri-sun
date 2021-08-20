@@ -4,7 +4,7 @@
  🔥 I'm a Student in CICCC, Developer !! 
 <br/><br/>
 
-⚽️ I’m looking forward to collaborate with other creators 💪💪💪<br/>
+⚽️ I’m completely beginner of web-development but i love this 💪💪💪<br/>
 ⚽️ 2021 Goals: Contribute more to projects and learn a lot ✊✊✊<br/>
 ⚽️ Hobby: I love to play and watch soccer !!!
 <br/><br/>
