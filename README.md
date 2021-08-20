@@ -4,7 +4,7 @@
  🔥 I'm a Student in CICCC, Developer !! 
 <br/><br/>
 
-⚽️ I’m looking to collaborate with other content creators 💪💪💪<br/>
+⚽️ I’m looking forward to collaborate with other creators 💪💪💪<br/>
 ⚽️ 2021 Goals: Contribute more to projects and learn a lot ✊✊✊<br/>
 ⚽️ Hobby: I love to play and watch soccer !!!
 <br/><br/>
@@ -12,9 +12,9 @@
 
 ###  Connect with me: 
 
-⚡️ Please check out my "<a href="https://kuri-sun-portfolio.netlify.app/">Web site(netlify version)</a>" ,"<a href="#">Web site(vercel version)</a>"  here !!!
+⚡️ Please check out my-website "<a href="https://kuri-sun-portfolio.netlify.app/">netlify ver.</a>(<a href="#">repository</a>)" ,"<a href="#">vercel ver.</a>(<a href="#">vercel version</a>)" here !!!
 
-⚡️ Please check out SMS account also !!!
+⚡️ Please check out SNS account also !!!
 
 <a href="https://gitlab.com/kuri-sun"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
 <a href="https://app.slack.com/client/TL7E588KY/D02207UPML0/user_profile/U01THPQ5V9T"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="slack-account" /></a>
