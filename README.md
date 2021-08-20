@@ -12,7 +12,7 @@
 
 ###  Connect with me: 
 
-⚡️ Please check out my-website "<a href="https://kuri-sun-portfolio.netlify.app/">netlify ver.</a> (<a href="#"><img src="https://avatars.githubusercontent.com/in/15368?s=48&v=4">repository</a>)" ,"<a href="#">vercel ver.</a> (<a href="#"><img src="https://avatars.githubusercontent.com/in/15368?s=48&v=4">repository</a>)" here !!!
+⚡️ Please check out my-website "<a href="https://kuri-sun-portfolio.netlify.app/">netlify ver.</a> (<a href="#"><img width="2px" height="2px" src="https://avatars.githubusercontent.com/in/15368?s=48&v=4">repository</a>)" ,"<a href="#">vercel ver.</a> (<a href="#"><img src="https://avatars.githubusercontent.com/in/15368?s=48&v=4">repository</a>)" here !!!
 
 ⚡️ Please check out SNS account also !!!
 
