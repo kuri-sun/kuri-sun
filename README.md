@@ -12,7 +12,7 @@
 
 ###  Connect with me: 
 
-⚡️ Please check out my "<a href="https://kuri-sun-portfolio.netlify.app">Web site</a>" here !!!
+⚡️ Please check out my "<a href="https://kuri-sun-portfolio.netlify.app/">Web site(netlify version)</a>" here !!!
 
 ⚡️ Please check out SMS account also !!!
 
