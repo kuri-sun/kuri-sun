@@ -63,9 +63,8 @@ Assignments and searching projects online and learn from it.
 #### Code Stats
 <!--START_SECTION:waka-->
 ```text
-Swift        8 hrs 16 mins   ████████████████▒░░░░░░░░   65.80 % 
-JavaScript   4 hrs 16 mins   ████████▒░░░░░░░░░░░░░░░░   33.93 % 
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Swift        8 hrs 16 mins   ████████████████████████░   96.66 % 
+JavaScript   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 ```
 <!--END_SECTION:waka-->
 
