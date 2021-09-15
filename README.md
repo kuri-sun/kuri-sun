@@ -64,11 +64,11 @@ Assignments and searching projects online and learn from it.
 #### Code Stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   20 hrs 29 mins  █████████████████████░░░░   84.23 % 
-EJS          1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-TypeScript   1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-CSS          32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-JSON         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+JavaScript   28 hrs 33 mins  █████████████████████▒░░░   85.75 % 
+TypeScript   1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+EJS          1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+JSON         53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+CSS          32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 ```
 <!--END_SECTION:waka-->
 
