@@ -13,7 +13,7 @@
 ##  Connect with me: 
 
 ⚡️ Please check out my-website 
- - "<a href="https://my-portfolio-withresume.vercel.app/">vercel ver.</a> (<a href="https://github.com/kuri-sun/portfolio-vercel-version"> repository </a>)"  <= recommend 💁
+ - "<a href="https://my-portfolio-withresume.vercel.app/">vercel ver.</a> (<a href="https://github.com/kuri-sun/portfolio-vercel-version"> repository </a>)"  <= currently not working.
  - "<a href="https://kuri-sun-portfolio.netlify.app/">netlify ver.</a> (<a href="https://github.com/kuri-sun/portfolio-netlify-version"> repository </a>)" ,
 
 
