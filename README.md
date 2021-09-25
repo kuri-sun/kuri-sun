@@ -64,7 +64,7 @@ Assignments and searching projects online and learn from it.
 #### Code Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+PHP   6 hrs 40 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
