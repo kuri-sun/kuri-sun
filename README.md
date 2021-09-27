@@ -64,7 +64,8 @@ Assignments and searching projects online and learn from it.
 #### Code Stats
 <!--START_SECTION:waka-->
 ```text
-PHP    9 hrs 29 mins   █████████████████████████   99.88 % 
+PHP    9 hrs 29 mins   ████████████████████████▓   98.79 % 
+SQL    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 <!--END_SECTION:waka-->
 
