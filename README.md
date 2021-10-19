@@ -64,7 +64,7 @@ Assignments and searching projects online and learn from it.
 #### Code Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python   1 hr 32 mins    █████████████████████████   99.75 % 
 ```
 <!--END_SECTION:waka-->
 
