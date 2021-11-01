@@ -17,7 +17,7 @@
  - "<a href="https://kuri-sun-portfolio.netlify.app/">netlify ver.</a> (<a href="https://github.com/kuri-sun/portfolio-netlify-version"> repository </a>)" ,
 
 
-⚡️ Please check out SNS account also !!!
+⚡️ Please check out SNS account also!!
 
 <a href="https://gitlab.com/kuri-sun"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
 <a href="https://app.slack.com/client/TL7E588KY/D02207UPML0/user_profile/U01THPQ5V9T"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="slack-account" /></a>
@@ -52,9 +52,9 @@
 
 <br/>
 
-#### What mainly coding about ???
+#### What mainly coding about?
 
-Assignments and searching projects online and learn from it.
+Assignments and searching projects or documentation from online and learn from it.
 
 #### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuri-sun&hide=contribs,prs&theme=tokyonight)
