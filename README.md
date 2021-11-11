@@ -62,8 +62,11 @@ Assignments and searching projects or documentation from online and learn from i
 #### Code Stats
 <!--START_SECTION:waka-->
 ```text
-JSX          42 mins         ██████████████▒░░░░░░░░░░   56.95 % 
-JavaScript   30 mins         ██████████▒░░░░░░░░░░░░░░   41.45 % 
+JSX          1 hr 3 mins     ████████████▒░░░░░░░░░░░░   49.68 % 
+JavaScript   30 mins         ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+TypeScript   18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+HTML         11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 ```
 <!--END_SECTION:waka-->
 
