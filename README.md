@@ -62,10 +62,8 @@ Assignments and searching projects or documentation from online and learn from i
 #### Code Stats
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 23 mins    ███████████▓░░░░░░░░░░░░░   46.17 % 
-YAML         39 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.99 % 
-HTML         30 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Docker       26 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+YAML     39 mins         ███████████████░░░░░░░░░░   59.82 % 
+Docker   26 mins         ██████████░░░░░░░░░░░░░░░   40.18 % 
 ```
 <!--END_SECTION:waka-->
 
