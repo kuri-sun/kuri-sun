@@ -62,8 +62,7 @@ Assignments and searching projects or documentation from online and learn from i
 #### Code Stats
 <!--START_SECTION:waka-->
 ```text
-YAML     39 mins         ███████████████░░░░░░░░░░   59.82 % 
-Docker   26 mins         ██████████░░░░░░░░░░░░░░░   40.18 % 
+
 ```
 <!--END_SECTION:waka-->
 
