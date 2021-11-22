@@ -62,7 +62,11 @@ Assignments and searching projects or documentation from online and learn from i
 #### Code Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   4 hrs 58 mins   ███████████████░░░░░░░░░░   59.49 % 
+JSX          2 hrs 30 mins   ███████▓░░░░░░░░░░░░░░░░░   30.00 % 
+Bash         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+HTML         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 ```
 <!--END_SECTION:waka-->
 
