@@ -62,11 +62,11 @@ Assignments and searching projects or documentation from online and learn from i
 #### Code Stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   8 hrs 51 mins   ██████████░░░░░░░░░░░░░░░   40.23 % 
-YAML         5 hrs 48 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.40 % 
-JSX          2 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Docker       2 hrs 25 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Bash         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+YAML         9 hrs 52 mins   █████████▒░░░░░░░░░░░░░░░   37.85 % 
+JavaScript   8 hrs 51 mins   ████████▒░░░░░░░░░░░░░░░░   33.96 % 
+JSX          2 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Docker       2 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Bash         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 ```
 <!--END_SECTION:waka-->
 
