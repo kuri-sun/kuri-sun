@@ -5,8 +5,8 @@
 <br/><br/>
 
 ⚽️ I’m completely beginner of web-development but i love this 💪💪💪<br/>
-⚽️ 2021 Goals: Contribute more to projects and learn a lot ✊✊✊<br/>
-⚽️ Hobby: I love to play and watch soccer !!!
+⚽️ 2021 Goals: Create more to projects and learn a lot ✊✊✊<br/>
+⚽️ Hobby: I love soccer !!!
 <br/><br/>
 <img src="https://img.shields.io/github/followers/kuri-sun?label=follwers&style=social"> <a href="https://ciccc.ca/"><img src="https://img.shields.io/badge/student-CICCC-blue"></a>
 
