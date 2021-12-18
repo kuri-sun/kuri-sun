@@ -13,7 +13,7 @@
 ##  Connect with me: 
 
 ⚡️ Please check out my-website 
- - "<a href="https://portfolio-vercel-version.vercel.app/">vercel ver.</a> (<a href="https://github.com/kuri-sun/portfolio-vercel-version"> repository </a>)"
+ - "<a href="https://www.harukurigandai.com/">vercel application</a> (<a href="https://github.com/kuri-sun/portfolio-vercel-version"> repository </a>)"
 
 
 ⚡️ Please check out SNS account also!!
