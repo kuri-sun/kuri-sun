@@ -61,10 +61,7 @@ Assignments and searching projects or documentation from online and learn from i
 #### Code Stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   3 hrs 8 mins    ██████████████████░░░░░░░   71.38 % 
-YAML         47 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.94 % 
-JSON         14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-HTML         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+JSON   14 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
