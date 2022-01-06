@@ -61,7 +61,7 @@ Assignments and searching projects or documentation from online and learn from i
 #### Code Stats
 <!--START_SECTION:waka-->
 ```text
-JSON   14 mins         ████████████████████████░   95.83 % 
+
 ```
 <!--END_SECTION:waka-->
 
