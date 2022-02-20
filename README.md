@@ -61,10 +61,8 @@ Assignments and searching projects or documentation from online and learn from i
 #### Code Stats
 <!--START_SECTION:waka-->
 ```text
-Total: 38 mins
-
-JavaScript   36 mins         ███████████████████████▓░   94.44 % 
-CSS          2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+JavaScript   32 mins         ███████████████████████▒░   93.85 % 
+CSS          2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 ```
 <!--END_SECTION:waka-->
 
