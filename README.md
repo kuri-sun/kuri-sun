@@ -60,10 +60,16 @@ Assignments and searching projects or documentation from online and learn from i
 
 #### Code Stats
 <!--START_SECTION:waka-->
+
 ```text
-CSV          14 mins         ████████████████████▒░░░░   81.72 % 
-JavaScript   3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.28 % 
+YAML       2 hrs 39 mins   ██████████████████████░░░   88.56 %
+JSON       13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+Bash       6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Docker     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
+
 <!--END_SECTION:waka-->
 
 #### Business
