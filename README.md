@@ -62,12 +62,12 @@ Assignments and searching projects or documentation from online and learn from i
 <!--START_SECTION:waka-->
 
 ```text
-YAML       2 hrs 39 mins   ██████████████████████░░░   88.56 %
-JSON       13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-Bash       6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-Docker     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+YAML         3 hrs 18 mins   ████████████████░░░░░░░░░   63.92 %
+JavaScript   1 hr 1 min      █████░░░░░░░░░░░░░░░░░░░░   19.61 %
+Text         26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+JSON         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+Bash         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
