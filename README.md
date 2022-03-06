@@ -62,8 +62,8 @@ Assignments and searching projects or documentation from online and learn from i
 <!--START_SECTION:waka-->
 
 ```text
-YAML         20 hrs 50 mins  ███████████████████▓░░░░░   78.45 %
-Other        2 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+YAML         20 hrs 19 mins  ███████████████████▒░░░░░   77.98 %
+Other        2 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
 ```
 
 <!--END_SECTION:waka-->
