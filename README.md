@@ -62,8 +62,11 @@ Assignments and searching projects or documentation from online and learn from i
 <!--START_SECTION:waka-->
 
 ```text
-YAML         7 hrs 32 mins   ███████████████████████▒░   93.88 %
-Other        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+YAML         5 hrs 37 mins   ████████████████████████▒   97.90 %
+Docker       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
