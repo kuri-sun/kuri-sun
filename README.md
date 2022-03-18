@@ -62,7 +62,10 @@ Assignments and searching projects or documentation from online and learn from i
 <!--START_SECTION:waka-->
 
 ```text
-HTML   3 hrs 41 mins   █████████████████████████   100.00 %
+HTML         3 hrs 41 mins   █████████████▒░░░░░░░░░░░   52.79 %
+JavaScript   3 hrs 17 mins   ███████████▓░░░░░░░░░░░░░   47.08 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
