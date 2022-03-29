@@ -57,11 +57,12 @@ Assignments and searching projects or documentation from online and learn from i
 <!--START_SECTION:waka-->
 
 ```text
-Python       38 hrs 30 mins  ███████████████████████▓░   95.31 %
-JavaScript   45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-Markdown     30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-TOML         13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Other        10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Python       40 hrs 48 mins  ████████████████████████▒   96.69 %
+JavaScript   45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Markdown     30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
