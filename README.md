@@ -57,12 +57,12 @@ Assignments and searching projects or documentation from online and learn from i
 <!--START_SECTION:waka-->
 
 ```text
-Python       32 hrs 56 mins  █████████████████░░░░░░░░   67.66 %
-Java         13 hrs 18 mins  ███████░░░░░░░░░░░░░░░░░░   27.34 %
-Markdown     1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-YAML         40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-XML          31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-HTML         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Python       27 hrs 59 mins  ███████████████▓░░░░░░░░░   63.32 %
+Java         13 hrs 18 mins  ███████▓░░░░░░░░░░░░░░░░░   30.11 %
+Markdown     1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+YAML         40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+XML          31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+HTML         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
