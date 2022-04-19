@@ -57,12 +57,12 @@ Assignments and searching projects or documentation from online and learn from i
 <!--START_SECTION:waka-->
 
 ```text
-Java             5 hrs 2 mins    ███████████████████░░░░░░   76.48 %
-JavaScript       31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-Markdown         27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
-YAML             14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-PHP              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Bash             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+JavaScript   31 mins         ██████████▓░░░░░░░░░░░░░░   42.43 %
+YAML         14 mins         █████░░░░░░░░░░░░░░░░░░░░   19.43 %
+Markdown     11 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
+Java         9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
+Bash         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+JSON         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
 ```
 
 <!--END_SECTION:waka-->
