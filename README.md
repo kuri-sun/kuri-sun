@@ -57,11 +57,10 @@ Assignments and searching projects or documentation from online and learn from i
 <!--START_SECTION:waka-->
 
 ```text
-Java             6 hrs 6 mins    ███████████████████████░░   92.58 %
-YAML             21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-Kotlin           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Properties       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Java             4 hrs 17 mins   ██████████████████████░░░   88.25 %
+YAML             30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
+Properties       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
