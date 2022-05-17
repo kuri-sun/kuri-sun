@@ -57,8 +57,8 @@ Assignments and searching projects or documentation from online and learn from i
 <!--START_SECTION:waka-->
 
 ```text
-Java   1 hr 13 mins    ████████████████████▒░░░░   81.83 %
-YAML   16 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.17 %
+Java   18 mins         ██████████████████░░░░░░░   72.01 %
+YAML   7 mins          ███████░░░░░░░░░░░░░░░░░░   27.99 %
 ```
 
 <!--END_SECTION:waka-->
