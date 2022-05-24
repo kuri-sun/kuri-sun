@@ -57,7 +57,8 @@ Assignments and searching projects or documentation from online and learn from i
 <!--START_SECTION:waka-->
 
 ```text
-Python   5 mins          █████████████████████████   100.00 %
+Python   5 mins          ███████████████▒░░░░░░░░░   60.84 %
+Java     3 mins          █████████▓░░░░░░░░░░░░░░░   39.16 %
 ```
 
 <!--END_SECTION:waka-->
