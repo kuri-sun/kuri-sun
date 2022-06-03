@@ -57,8 +57,8 @@ Assignments and searching projects or documentation from online and learn from i
 <!--START_SECTION:waka-->
 
 ```text
-Python       1 hr 49 mins    ██████████████████████░░░   87.57 %
-Properties   15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
+Python       1 hr 34 mins    █████████████████████▒░░░   85.78 %
+Properties   15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
 ```
 
 <!--END_SECTION:waka-->
