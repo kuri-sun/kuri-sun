@@ -55,8 +55,12 @@ Assignments and searching projects or documentation from online and learn from i
 <!--START_SECTION:waka-->
 
 ```text
-Python       1 hr 34 mins    █████████████████████▒░░░   85.78 %
-Properties   15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
+Python       57 mins         ████████▓░░░░░░░░░░░░░░░░   34.37 %
+XML          38 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.04 %
+Kotlin       24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
+JavaScript   18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+Properties   15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
+Git Config   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
 ```
 
 <!--END_SECTION:waka-->
