@@ -55,11 +55,11 @@ Assignments and searching projects or documentation from online and learn from i
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin                 22 hrs 58 mins  ████████████▓░░░░░░░░░░░░   51.27 %
-Java                   13 hrs 30 mins  ███████▓░░░░░░░░░░░░░░░░░   30.14 %
-XML                    4 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
-Groovy                 3 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
-Properties             25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Kotlin                 22 hrs 51 mins  █████████████▒░░░░░░░░░░░   53.58 %
+Java                   13 hrs 38 mins  ████████░░░░░░░░░░░░░░░░░   31.97 %
+Groovy                 3 hrs 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+XML                    2 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+Properties             25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 Prolog                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
