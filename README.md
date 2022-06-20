@@ -55,12 +55,12 @@ Assignments and searching projects or documentation from online and learn from i
 <!--START_SECTION:waka-->
 
 ```text
-Java             23 hrs 18 mins  █████████████▓░░░░░░░░░░░   55.13 %
-Kotlin           15 hrs 47 mins  █████████▒░░░░░░░░░░░░░░░   37.33 %
-Groovy           2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
-HTML             38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-XML              14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Text             7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Java             27 hrs 31 mins  ██████████████▓░░░░░░░░░░   59.20 %
+Kotlin           15 hrs 47 mins  ████████▒░░░░░░░░░░░░░░░░   33.95 %
+Groovy           2 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+HTML             38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+XML              14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Text             7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
