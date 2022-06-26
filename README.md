@@ -55,12 +55,12 @@ Assignments and searching projects or documentation from online and learn from i
 <!--START_SECTION:waka-->
 
 ```text
-XML              15 hrs 21 mins  █████████▒░░░░░░░░░░░░░░░   37.38 %
-Java             11 hrs 56 mins  ███████▒░░░░░░░░░░░░░░░░░   29.05 %
-Kotlin           7 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.35 %
-JavaScript       2 hrs 17 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-YAML             1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-Properties       42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+XML              15 hrs 39 mins  █████████▓░░░░░░░░░░░░░░░   38.07 %
+Java             8 hrs 54 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.65 %
+Kotlin           7 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
+YAML             3 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
+JavaScript       2 hrs 38 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+Properties       1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
 ```
 
 <!--END_SECTION:waka-->
