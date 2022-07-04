@@ -55,12 +55,12 @@ Assignments and searching projects or documentation from online and learn from i
 <!--START_SECTION:waka-->
 
 ```text
-XML          11 hrs 40 mins  ███████████████▓░░░░░░░░░   63.02 %
-Python       4 hrs 19 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.33 %
-Groovy       40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-Kotlin       32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-Properties   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-YAML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+XML          8 hrs 51 mins   ████████████▒░░░░░░░░░░░░   49.45 %
+Python       4 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   24.14 %
+Kotlin       2 hrs 44 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
+Groovy       40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Properties   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+YAML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka-->
