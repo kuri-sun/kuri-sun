@@ -8,7 +8,9 @@
 <br/><br/>
 <img src="https://img.shields.io/github/followers/kuri-sun?label=follwers&style=social"> 
 
+<br/>
 <hr />
+
 ###  Connect with me: 
 
 ⚡️ Please check out my-website 
