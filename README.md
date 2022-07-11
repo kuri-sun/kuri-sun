@@ -1,7 +1,7 @@
  # Hi, I'm Haruki Kuriwada  <img width="22px" height="22px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif">
  <br/>
- 🔥 My resume is here ---> 📄 <a href="https://docs.google.com/document/d/14_rmZOOdRmxSMWSB0NcTpmyhufXta6ao/edit?usp=sharing&ouid=104234874170699905142&rtpof=true&sd=true">Resume</a> 📄<br/>
- 🔥 I'm a Student in CICCC, Developer !! 
+ - My resume is here ---> 📄 <a href="https://docs.google.com/document/d/14_rmZOOdRmxSMWSB0NcTpmyhufXta6ao/edit?usp=sharing&ouid=104234874170699905142&rtpof=true&sd=true">Resume</a> 📄<br/>
+ - I'm a Student in CICCC, Software Developer
 <br/><br/>
 
  I’m completely beginner of web-development but i love this 💪💪💪<br/>
