@@ -8,7 +8,8 @@
 <br/><br/>
 <img src="https://img.shields.io/github/followers/kuri-sun?label=follwers&style=social"> 
 
-##  Connect with me: 
+<hr />
+###  Connect with me: 
 
 ⚡️ Please check out my-website 
  - "<a href="https://www.harukurigandai.com/">portfolio</a> (<a href="https://github.com/kuri-sun/portfolio-vercel-version"> repository </a>)"
