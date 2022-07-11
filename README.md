@@ -6,7 +6,7 @@
  I’ve been coding for 2 years in software-development but includes my electronic engineering background it almost 5 years. 💪<br/>
  I love anime and soccer!
 <br/><br/>
-<img src="https://img.shields.io/github/followers/kuri-sun?label=follwers&style=social"> <a href="https://ciccc.ca/"><img src="https://img.shields.io/badge/student-CICCC-blue"></a>
+<img src="https://img.shields.io/github/followers/kuri-sun?label=follwers&style=social"> 
 
 ##  Connect with me: 
 
