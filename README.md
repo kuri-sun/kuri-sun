@@ -4,9 +4,8 @@
  - I'm a Student in CICCC, Software Developer
 <br/><br/>
 
- I’m completely beginner of web-development but i love this 💪💪💪<br/>
- 2021 Goals: Create more to projects and learn a lot ✊✊✊<br/>
- Hobby: I love soccer !!!
+ I’ve been coding for 2 years in software-development but includes my electronic engineering background it almost 5 years. 💪<br/>
+ I love anime and soccer!
 <br/><br/>
 <img src="https://img.shields.io/github/followers/kuri-sun?label=follwers&style=social"> <a href="https://ciccc.ca/"><img src="https://img.shields.io/badge/student-CICCC-blue"></a>
 
