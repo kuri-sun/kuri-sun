@@ -55,12 +55,12 @@ Assignments and searching projects or documentation from online and learn from i
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin     11 hrs 30 mins  ███████████████████░░░░░░   75.41 %
-Python     3 hrs 16 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
-Groovy     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-XML        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-JSON       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Kotlin     19 hrs 21 mins  █████████████████████▒░░░   85.81 %
+Python     2 hrs 40 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
+XML        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Groovy     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+JSON       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
