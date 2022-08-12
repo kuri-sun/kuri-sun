@@ -3,9 +3,9 @@
  I'm a Software Developer based in Vancouver, BC, Canada. (<a href="https://docs.google.com/document/d/14_rmZOOdRmxSMWSB0NcTpmyhufXta6ao/edit?usp=sharing&ouid=104234874170699905142&rtpof=true&sd=true">Resume</a>📄)
 <br/><br/>
 
- I’ve been coding for 2 years in software-development but includes my electronic engineering background it almost 5 years. 💪<br/>
+ I’ve been coding for 2 years in software-development but includes my computer and electronic engineering background it almost 5 years. 💪<br/>
 
-<br/><br/>
+<br/>
 <img src="https://img.shields.io/github/followers/kuri-sun?label=follwers&style=social"> 
 
 <hr />
