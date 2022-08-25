@@ -55,11 +55,11 @@ Assignments and searching projects or documentation from online and learn from i
 <!--START_SECTION:waka-->
 
 ```text
-C++          7 hrs 15 mins   ███████████▒░░░░░░░░░░░░░   44.68 %
-Kotlin       3 hrs 57 mins   ██████░░░░░░░░░░░░░░░░░░░   24.33 %
-C            3 hrs 39 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.55 %
-XML          1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
-JavaScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+C++          6 hrs 22 mins   █████████████▓░░░░░░░░░░░   54.61 %
+C            3 hrs 39 mins   ████████░░░░░░░░░░░░░░░░░   31.34 %
+Kotlin       1 hr 12 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
+XML          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ObjectiveC   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
