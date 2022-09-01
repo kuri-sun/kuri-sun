@@ -55,12 +55,12 @@ Assignments and searching projects or documentation from online and learn from i
 <!--START_SECTION:waka-->
 
 ```text
-C++              1 hr 41 mins    ██████████▒░░░░░░░░░░░░░░   41.42 %
-Python           1 hr 37 mins    ██████████░░░░░░░░░░░░░░░   40.06 %
-C                23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
-ObjectiveC       17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
-CMake            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-JavaScript       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+C++              1 hr 49 mins    ██████████░░░░░░░░░░░░░░░   40.34 %
+Python           1 hr 37 mins    █████████░░░░░░░░░░░░░░░░   36.10 %
+C                28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
+ObjectiveC       23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
+CMake            8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Objective-C      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
