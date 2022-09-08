@@ -55,12 +55,12 @@ Assignments and searching projects or documentation from online and learn from i
 <!--START_SECTION:waka-->
 
 ```text
-SCSS             5 hrs 4 mins    ████████████▒░░░░░░░░░░░░   49.40 %
-C++              2 hrs 9 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.07 %
-C                1 hr 21 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
-HTML             32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-ObjectiveC       23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-JavaScript       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+SCSS             5 hrs 4 mins    ████████████████░░░░░░░░░   64.62 %
+C                58 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
+HTML             32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+C++              28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+JavaScript       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+Python           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
 <!--END_SECTION:waka-->
