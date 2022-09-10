@@ -1,6 +1,6 @@
- # Haruki Kuriwada  <img width="22px" height="22px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif">
+ # Haruki Kuriwada 
  <br/>
- I'm a Software Developer based in Vancouver, BC, Canada. (<a href="https://docs.google.com/document/d/1oy0KFkAIEDdaN0KtgwNnSvFJkX0toXE1P4VLIS8YCGo/edit?usp=sharing">Resume</a>📄)
+ I'm a Software Developer based in Vancouver, BC, Canada. I am happy to work with you! (<a href="https://docs.google.com/document/d/1oy0KFkAIEDdaN0KtgwNnSvFJkX0toXE1P4VLIS8YCGo/edit?usp=sharing">Resume</a>📄)
 <br/><br/>
 
 <img src="https://img.shields.io/github/followers/kuri-sun?label=follwers&style=social"> 
