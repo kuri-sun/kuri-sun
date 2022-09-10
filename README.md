@@ -23,6 +23,3 @@ C++          20 mins         ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-#### Business
- - email: harkuikuriwada@gmail.com
