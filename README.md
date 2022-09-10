@@ -3,28 +3,8 @@
  I'm a Software Developer based in Vancouver, BC, Canada. (<a href="https://docs.google.com/document/d/14_rmZOOdRmxSMWSB0NcTpmyhufXta6ao/edit?usp=sharing&ouid=104234874170699905142&rtpof=true&sd=true">Resume</a>📄)
 <br/><br/>
 
- I’ve been coding for 2 years in software-development but includes my computer and electronic engineering background it almost 5 years. 💪<br/>
-
-<br/>
 <img src="https://img.shields.io/github/followers/kuri-sun?label=follwers&style=social"> 
 
-<hr />
-
-###  Connect with me: 
-
-⚡️ Please check out my-website 
- - "<a href="https://www.harukurigandai.com/">portfolio</a> (<a href="https://github.com/kuri-sun/portfolio-vercel-version"> repository </a>)"
-
-
-⚡️ Please check out SNS account also!!
-
-<a href="https://gitlab.com/kuri-sun"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
-<a href="https://app.slack.com/client/TL7E588KY/D02207UPML0/user_profile/U01THPQ5V9T"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="slack-account" /></a>
-<a href="https://www.linkedin.com/in/haruki-kuriwada-97591220b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.facebook.com/profile.php?id=100006442410814"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="FACEBOOK" /></a>
-<a href="https://twitter.com/Haruki15Soccer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<br/>
-<br/>
 <hr />
 
 ###  Languages and Tools:
