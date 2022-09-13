@@ -1,7 +1,7 @@
  # Haruki Kuriwada 
  <br/>
  I'm a Software Developer based in Vancouver, BC, Canada. I am happy to work with you! (<a href="https://docs.google.com/document/d/1oy0KFkAIEDdaN0KtgwNnSvFJkX0toXE1P4VLIS8YCGo/edit?usp=sharing">Resume</a>)
-<br/><br/>
+<br/>
 
 <hr />
 
