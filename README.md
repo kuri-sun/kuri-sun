@@ -12,10 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-GitIgnore file   0 secs          █████████████████████░░░░   83.45 %
-CMake            0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-C++              0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
-ObjectiveC       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
