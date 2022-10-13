@@ -1,6 +1,6 @@
- # Haruki Kuriwada - <a href="https://docs.google.com/document/d/1oy0KFkAIEDdaN0KtgwNnSvFJkX0toXE1P4VLIS8YCGo/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>
- <br/>
- I'm a Software Developer! I love anime, one punch man! I am happy to work with you! 
+ # Haruki (Ruki) Kuriwada
+ I'm a Software Developer. I love anime, especially one punch man. <br/>
+ I am happy to work with you! 
 <br/>
 
 <hr />
