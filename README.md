@@ -13,9 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Git Config   0 secs          ████████████████░░░░░░░░░   63.79 %
-JavaScript   0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.36 %
-Other        0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
