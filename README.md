@@ -1,18 +1,3 @@
  # Haruki (Ruki) Kuriwada
- I'm a Software Developer. <br/>
- I am happy to work with you!
+ I'm learning Software Engineering. <br/>
 <br/>
-
-<hr />
-
-#### Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuri-sun&hide=contribs,prs&theme=tokyonight)
-
-#### Code Stats
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
