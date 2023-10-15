@@ -1,8 +1,8 @@
 <h1>Hi, I'm Haruki Kuriwada 👋</h1>
 <h3>Thanks for your interest!</h3>
 <h3>A Software Engineer/Cloud Engineer from Japan🇯🇵, I would love to collaborate to work with you!</h3>
-<h3>📄 <a href="https://github.com/kuri-sun/portfolio/files/12908851/resume_haruki_k.pdf" target="_blank">My Resume</a></h3>
-
+<h3>📄 <a href="https://github.com/kuri-sun/portfolio/files/12910381/resume_haruki_k.pdf" target="_blank">My Resume</a></h3>
+<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuri-sun&label=Profile%20views&color=0e75b6&style=flat" alt="kuri-sun" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuri-sun" alt="kuri-sun" /></a> </p>
