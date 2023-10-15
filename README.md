@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Haruki</h1>
-<h3>A passionate full-stack developer from Japan!</h3>
+<h1>Hi 👋, I'm Haruki</h1>
+<h3>A passionate full-stack developer from Japan!🇯🇵</h3>
 <h3>📄 Thanks for your interest! My Resume can download from <a href="https://github.com/kuri-sun/kuri-sun/files/12908741/resume_haruki_k.pdf" target="_blank">Here</a>!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuri-sun&label=Profile%20views&color=0e75b6&style=flat" alt="kuri-sun" /> </p>
