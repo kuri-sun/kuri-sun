@@ -1,6 +1,7 @@
 <h1>Hi 👋, I'm Haruki</h1>
+<h3>Thanks for your interest!</h3>
 <h3>A Software Engineer/Cloud Engineer from Japan!🇯🇵 I would love to collaborate to work with you!</h3>
-<h3>📄 Thanks for your interest! My Resume can download from <a href="https://github.com/kuri-sun/kuri-sun/files/12908741/resume_haruki_k.pdf" target="_blank">Here</a>!</h3>
+<h3>📄 My Resume can download from <a href="https://github.com/kuri-sun/kuri-sun/files/12908741/resume_haruki_k.pdf" target="_blank">Here</a>!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuri-sun&label=Profile%20views&color=0e75b6&style=flat" alt="kuri-sun" /> </p>
 
