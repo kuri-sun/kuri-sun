@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haruki</h1>
 <h3 align="center">A passionate full-stack developer from Japan!</h3>
-<h3 align="center">My <a href="https://github.com/kuri-sun/kuri-sun/files/12908741/resume_haruki_k.pdf" target="_blank">Resume</a> also available here!</h3>
+<h3 align="center">📄 Thanks for your interest! My Resume can download from <a href="https://github.com/kuri-sun/kuri-sun/files/12908741/resume_haruki_k.pdf" target="_blank">Here</a>!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuri-sun&label=Profile%20views&color=0e75b6&style=flat" alt="kuri-sun" /> </p>
 
@@ -9,8 +9,6 @@
 - 💬 Ask me about **react, java, vim and so on!**
 
 - 📫 How to reach me **harukikuriwada@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ArDQj73URjdlMO0bxi9LIor4cBZz-y5XoPMoAr0tsEE/edit?usp=sharing](https://docs.google.com/document/d/1ArDQj73URjdlMO0bxi9LIor4cBZz-y5XoPMoAr0tsEE/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
