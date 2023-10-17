@@ -1,5 +1,4 @@
 <h1>Hi, I'm Haruki Kuriwada 👋</h1>
-<h3>Thanks for your interest!</h3>
 <h3>A Software Engineer/Cloud Engineer from Japan🇯🇵, I would love to collaborate to work with you!</h3>
 <h3>📄 <a href="https://github.com/kuri-sun/portfolio/files/12910381/resume_haruki_k.pdf" target="_blank">My Resume</a></h3>
 <br />
