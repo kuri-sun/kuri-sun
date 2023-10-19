@@ -1,6 +1,6 @@
 <h1>Hi, I'm Haruki Kuriwada 👋</h1>
 <h3>A Software Engineer/Cloud Engineer from Japan🇯🇵, I would love to collaborate to work with you!</h3>
-<h3>📄 <a href="https://docs.google.com/document/d/1ArDQj73URjdlMO0bxi9LIor4cBZz-y5XoPMoAr0tsEE/edit?usp=sharing" target="_blank">My Resume</a></h3>
+<h3>📄 <a href="https://docs.google.com/document/d/1qYN-J9AX7Xt_cM48pBJzIC8_WWa1Sy--2kYZOiltVwY/edit?usp=sharing" target="_blank">My Resume</a></h3>
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuri-sun&label=Profile%20views&color=0e75b6&style=flat" alt="kuri-sun" /> </p>
 
