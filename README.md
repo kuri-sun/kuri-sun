@@ -1,4 +1,7 @@
 <h1>Hi, I'm Haruki Kuriwada 👋</h1>
+<br />
+📄 <a href="https://docs.google.com/document/d/1qYN-J9AX7Xt_cM48pBJzIC8_WWa1Sy--2kYZOiltVwY/edit?usp=sharing" target="_blank">My Resume</a>
+
 - A Software Engineer/Cloud Engineer from Japan🇯🇵, I would love to collaborate to work with you!
 - 💻 Tech Interest: web&mobile application, AI, blockchain
 - ❤️ Hobby: Watching Soccer Game(PL!Mitoma!Brighton!!, I love Vancouver Whitecaps too!!), Cooking 👨‍🍳
@@ -10,8 +13,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuri-sun" alt="kuri-sun" /></a> </p>
 
 - 💬 Ask me about **react, java, vim and so on!**
-
-- 📫 How to reach me **harukikuriwada@gmail.com**
+- 📫 Reach me **harukikuriwada@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
