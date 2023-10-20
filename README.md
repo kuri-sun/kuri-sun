@@ -1,7 +1,7 @@
 <h1>Hi, I'm Haruki Kuriwada 👋</h1>
 <br />
-📄 <a href="https://docs.google.com/document/d/1qYN-J9AX7Xt_cM48pBJzIC8_WWa1Sy--2kYZOiltVwY/edit?usp=sharing" target="_blank">My Resume</a>
 
+- 📄 My resume is <a href="https://docs.google.com/document/d/1qYN-J9AX7Xt_cM48pBJzIC8_WWa1Sy--2kYZOiltVwY/edit?usp=sharing" target="_blank">here</a>!
 - A Software Engineer/Cloud Engineer from Japan🇯🇵, I would love to collaborate to work with you!
 - 💻 Tech Interest: web application, mobile application, AI
 - ❤️ Hobby: ⚽Watching Soccer Game(PL!Mitoma!Brighton!!, I love Vancouver Whitecaps too!!), 👨‍🍳Cooking
