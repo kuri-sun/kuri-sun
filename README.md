@@ -3,7 +3,7 @@
 
 - A Software Engineer/Cloud Engineer from Japan🇯🇵, I would love to collaborate to work with you!
 - 💻 Tech Interest: web application, mobile application, AI
-- 👤 And this is <a href="https://haruki-kuriwada.netlify.app/">my portfolio</a>! Please check it out!
+- 👤 And this is <a href="https://haruki-kuriwada.netlify.app/">**my portfolio**</a>! Please check it out!
 - ❤️ Hobby: ⚽Watching Soccer Game(PL!Mitoma!Brighton!!, I love Vancouver Whitecaps too!!), 👨‍🍳Cooking
 - 😋 Favorite food: 🍔Hamburger, 🍙Rice ball, 🍲Chinese hot pot, 🍣Sushi,... I cannot name it...😝
 - 💬 Let's talk about **React, Java and Vim!**
