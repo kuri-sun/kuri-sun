@@ -7,7 +7,7 @@
 - ❤️ Hobby: ⚽Watching Soccer Game(PL!Mitoma!Brighton!!, I love Vancouver Whitecaps too!!), 👨‍🍳Cooking
 - 😋 Favorite food: 🍔Hamburger, 🍙Rice ball, 🍲Chinese hot pot, 🍣Sushi,... I cannot name it...😝
 - 💬 Let's talk about **React, Java and Vim!**
-- 📫 I would like to collaborate with you! Reach me **harukikuriwada@gmail.com** !!!
+- 📫 I am always happy to collaborate with you! Reach me **harukikuriwada@gmail.com** !!!
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuri-sun&label=Profile%20views&color=0e75b6&style=flat" alt="kuri-sun" /> </p>
 
