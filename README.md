@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuri-sun" alt="kuri-sun" /></a> </p>
 
-- 💬 Ask me about **react, java, vim and so on!**
+- 💬 Let's talk about **React, Java and Vim!**
 - 📫 Reach me **harukikuriwada@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
