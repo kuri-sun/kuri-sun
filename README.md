@@ -9,7 +9,7 @@
 - 💬 Let's talk about **React, Java and Vim!**
 - 📫 I am always happy to collaborate with you! Reach me **harukikuriwada@gmail.com** !!!
 
-<img src="https://github.com/kuri-sun/customizable-portfolio/assets/62743644/33392779-041b-40ff-8ff0-9b5d75aec282" alt="java" width="40" height="40"/>
+<img src="https://github.com/kuri-sun/customizable-portfolio/assets/62743644/33392779-041b-40ff-8ff0-9b5d75aec282" alt="java" width="140" height="140"/>
 <br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuri-sun&label=Profile%20views&color=0e75b6&style=flat" alt="kuri-sun" /> </p>
