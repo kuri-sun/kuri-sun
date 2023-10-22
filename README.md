@@ -10,8 +10,8 @@
 - 📫 I am always happy to collaborate with you! Reach me **harukikuriwada@gmail.com** !!!
 <p align="left">
   <img src="https://github.com/kuri-sun/kuri-sun/assets/62743644/242c0500-281a-4e92-aa18-3e2b5e09518e" alt="java" width="250" height="250"/>
-  <img src="https://github.com/kuri-sun/kuri-sun/assets/62743644/c6ae2024-146c-4ac7-b867-0e9909db9f7f" alt="java" width="300" height="250"/>
-  <img src="https://github.com/kuri-sun/kuri-sun/assets/62743644/89e0a94e-b0e9-4731-b128-1667e0776b35" alt="java" width="300" height="250"/>
+  <img src="https://github.com/kuri-sun/kuri-sun/assets/62743644/c6ae2024-146c-4ac7-b867-0e9909db9f7f" alt="java" width="280" height="250"/>
+  <img src="https://github.com/kuri-sun/kuri-sun/assets/62743644/89e0a94e-b0e9-4731-b128-1667e0776b35" alt="java" width="280" height="250"/>
 </p>
   
 <br />
