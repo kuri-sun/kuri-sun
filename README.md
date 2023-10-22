@@ -10,7 +10,7 @@
 - 📫 I am always happy to collaborate with you! Reach me **harukikuriwada@gmail.com** !!!
 <p align="left">
   <img src="https://github.com/kuri-sun/kuri-sun/assets/62743644/242c0500-281a-4e92-aa18-3e2b5e09518e" alt="java" width="250" height="250"/>
-  <img src="https://github.com/kuri-sun/customizable-portfolio/assets/62743644/33392779-041b-40ff-8ff0-9b5d75aec282" alt="java" width="300" height="250"/>
+  <img src="https://github.com/kuri-sun/kuri-sun/assets/62743644/1e5f7cba-da7f-4ede-a479-13ee2d5c9852" alt="java" width="300" height="250"/>
 </p>
   
 <br />
