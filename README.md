@@ -8,9 +8,9 @@
 - 😋 Favorite food: 🍔Hamburger, 🍙Rice ball, 🍲Chinese hot pot, 🍣Sushi,... I cannot name it...😝
 - 💬 Let's talk about **React, Java and Vim!**
 - 📫 I am always happy to collaborate with you! Reach me **harukikuriwada@gmail.com** !!!
-<br />
-![7BDC3B06-448E-4DED-81ED-E89D032F7D9B_1_105_c](https://github.com/kuri-sun/customizable-portfolio/assets/62743644/33392779-041b-40ff-8ff0-9b5d75aec282)
 
+<img src="https://github.com/kuri-sun/customizable-portfolio/assets/62743644/33392779-041b-40ff-8ff0-9b5d75aec282" alt="java" width="40" height="40"/>
+<br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuri-sun&label=Profile%20views&color=0e75b6&style=flat" alt="kuri-sun" /> </p>
 
