@@ -8,8 +8,11 @@
 - 😋 Favorite food: 🍔Hamburger, 🍙Rice ball, 🍲Chinese hot pot, 🍣Sushi,... I cannot name it...😝
 - 💬 Let's talk about **React, Java and Vim!**
 - 📫 I am always happy to collaborate with you! Reach me **harukikuriwada@gmail.com** !!!
-
-<img src="https://github.com/kuri-sun/customizable-portfolio/assets/62743644/33392779-041b-40ff-8ff0-9b5d75aec282" alt="java" width="300" height="250"/>
+<p align="left">
+  <img src="https://github.com/kuri-sun/kuri-sun/assets/62743644/242c0500-281a-4e92-aa18-3e2b5e09518e" alt="java" width="250" height="250"/>
+  <img src="https://github.com/kuri-sun/customizable-portfolio/assets/62743644/33392779-041b-40ff-8ff0-9b5d75aec282" alt="java" width="300" height="250"/>
+</p>
+  
 <br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuri-sun&label=Profile%20views&color=0e75b6&style=flat" alt="kuri-sun" /> </p>
@@ -20,9 +23,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
-
-
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
