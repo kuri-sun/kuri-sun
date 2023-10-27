@@ -1,7 +1,7 @@
 # Hi, I'm Haruki(Ruki) Kuriwada 👋
 <br />
 
-- A Software Engineer/Cloud Engineer from Japan🇯🇵, I would love to collaborate to work with you!
+- A Software Engineer/Cloud Engineer from Japan🇯🇵, I would love to collaborate with you!
 - 💻 Tech Interest: web application, mobile application, AI
 - 👤 And this is <a href="https://haruki-kuriwada.netlify.app/">**my portfolio**</a>! Please check it out!
 - ❤️ Hobby: ⚽Playing soccer(I am joining Vancouver soccer community!!) & Watching Soccer Game(Premier League!! Mitoma!Brighton!!, I love Vancouver Whitecaps too!!), 👨‍🍳Cooking, 🏞️Hiking, 🏃Cardio traning
