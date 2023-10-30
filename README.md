@@ -4,10 +4,10 @@
 - A Software Engineer/Cloud Engineer from Japan🇯🇵, I would love to collaborate with you!
 - 💻 Tech Interest: web application, mobile application, AI
 - 👤 And this is <a href="https://haruki-kuriwada.netlify.app/">**my portfolio**</a>! Please check it out!
-- ❤️ Hobby: ⚽Playing soccer(I am joining Vancouver soccer community!!) & Watching Soccer Game(Premier League!! Mitoma!Brighton!!, I love Vancouver Whitecaps too!!), 👨‍🍳Cooking, 🏞️Hiking, 🏃Cardio traning
+- ❤️ Hobby: ⚽Playing soccer(I am joining Vancouver soccer community!!) & Watching Soccer Games(Premier League!! Mitoma!Brighton!!, I love Vancouver Whitecaps too!!), 👨‍🍳Cooking, 🏞️Hiking, 🏃Cardio training
 - 😋 Favorite food: 🍔Hamburger, 🍙Rice ball, 🍲Chinese hot pot, 🍣Sushi,... I cannot name it...😝
 - 💬 Let's talk about **React, Java and Vim!**
-- 📫 I am always happy to collaborate with you! Reach me **harukikuriwada@gmail.com** !!!
+- 📫 I am always happy to collaborate with you! Reach me at **harukikuriwada@gmail.com** !!!
 <p align="left">
   <img src="https://github.com/kuri-sun/kuri-sun/assets/62743644/242c0500-281a-4e92-aa18-3e2b5e09518e" alt="java" width="250" height="250"/>
   <img src="https://github.com/kuri-sun/kuri-sun/assets/62743644/c6ae2024-146c-4ac7-b867-0e9909db9f7f" alt="java" width="280" height="250"/>
