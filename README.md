@@ -50,11 +50,3 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   
 </p>
-
-<br />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuri-sun&show_icons=true&locale=en&layout=compact" alt="kuri-sun" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuri-sun&show_icons=true&locale=en" alt="kuri-sun" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuri-sun&" alt="kuri-sun" /></p>
