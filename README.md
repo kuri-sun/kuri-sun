@@ -1,4 +1,4 @@
-# Hi, I'm Haruki(Ruki) Kuriwada 👋
+# Hi, I'm HaRuki 👋
 <br />
 
 - A Software Engineer/Cloud Engineer from Japan🇯🇵, I would love to collaborate with you!
