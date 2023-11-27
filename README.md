@@ -1,4 +1,4 @@
-# Hi, I'm HaRuki 👋
+# Hi, I'm Haruki 👋
 <br />
 
 - A Software Engineer from Japan🇯🇵!
