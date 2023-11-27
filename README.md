@@ -2,7 +2,7 @@
 <br />
 
 - A Software Engineer/Cloud Engineer from Japan🇯🇵, I would love to collaborate with you!
-- 💻 Recent Tech Interest: Blockchain, AI
+- 💻 Recent Tech Interest: Blockchain
 - 👤 <a href="https://haruki-kuriwada.netlify.app/">**My Portfolio**</a>!
 - ❤️ Hobby: ⚽Watching Soccer Games(PL!! Mitoma!! Brighton!!), 👨‍🍳Cooking, 🏞️Hiking, 🏃Gym
 - 💬 Let's talk about **React, Java and Vim!**
