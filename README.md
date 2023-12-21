@@ -2,7 +2,7 @@
 <br />
 
 - A Software Engineer from Japan🇯🇵!
-- 💻 Recent Tech Interest: Blockchain
+- 💻 Tech Interest: Blockchain & Frontend development
 - 👤 <a href="https://haruki-kuriwada.netlify.app/">**My Portfolio**</a>!
 - ❤️ Hobby: ⚽Watching Soccer Games(PL!! Mitoma!! Brighton!!), 🏞️Hiking, 🏃Gym
 - 💬 Let's talk about **React, Java and Vim!**
