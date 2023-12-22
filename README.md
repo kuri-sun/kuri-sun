@@ -1,6 +1,3 @@
-# Hi, I'm Ruki (Haruki) 👋
-<br />
-
 - A Software Engineer from Japan🇯🇵!
 - 💻 Tech Interest: Blockchain & Frontend development
 - 👤 <a href="https://haruki-kuriwada.netlify.app/">**My Portfolio**</a>!
