@@ -1,4 +1,2 @@
-- From Japan🇯🇵!
-- 💻 Tech Interest: Blockchain & Front End development
-- ❤️ Hobby: ⚽Watching Soccer Games(PL!! Mitoma!! Brighton!!), 🏞️Hiking, 🏃Gym
-- 💬 Let's talk about **React and Vim!**
+-  💻 Tech Interest: Blockchain & Front End development
+- ❤️ Hobby: ⚽Watching Soccer Games(Premier League!!!), 🏞️Hiking, 🏃Gym
