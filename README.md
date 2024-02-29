@@ -1,2 +1,2 @@
--  💻 Tech Interest: Web Accessibility & Blockchain
+-  💻 Tech Interest: Front End & Blockchain
 - ❤️ Hobby: ⚽Watching Football Games(Premier League!!!), 🏞️Hiking, 🏃Gym
