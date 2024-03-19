@@ -1,2 +1,1 @@
--  💻 Interest: Front End, AI, Blockchain
-- ❤️ Hobby: ⚽🏴󠁧󠁢󠁥󠁮󠁧󠁿Watching Premier League Games!, 🏞️Hiking, 🏃Gym
+- Hobby: ⚽🏴󠁧󠁢󠁥󠁮󠁧󠁿Watching Premier League Games!, 🏞️Hiking, 🏃Gym
