@@ -1,2 +1,2 @@
--  💻 Tech Interest: Front End & Blockchain
-- ❤️ Hobby: ⚽Watching Football Games(Premier League!!!), 🏞️Hiking, 🏃Gym
+-  💻 Interest: Front End, AI, Blockchain
+- ❤️ Hobby: ⚽🏴󠁧󠁢󠁥󠁮󠁧󠁿Watching Premier League Games!, 🏞️Hiking, 🏃Gym
