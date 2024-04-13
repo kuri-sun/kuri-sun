@@ -1,1 +1,1 @@
-- Hobby: ⚽Watching Premier League Games(ENDO!), 🏞️Hiking, 🏃Gym
+- Hobby: ⚽Watching Premier League Games, 🏞️Hiking, 🏃Gym
